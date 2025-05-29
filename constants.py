@@ -9,3 +9,6 @@ background_color_value = "Black"
 player_color_value = "White"
 PLAYER_RADIUS = 20
 PLAYER_TURN_SPEED = 300
+PLAYER_SPEED = 200
+SHOT_RADIUS = 5
+PLAYER_SHOOT_SPEED = 500
